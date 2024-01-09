@@ -1,0 +1,7 @@
+export default {
+  REPLACE: "REPLACE",
+  CLEAR_WORD: "CLEAR_WORD",
+  CLEAR_NEXT: "CLEAR_NEXT",
+  ACCEPT: "ACCEPT",
+  REJECT: "REJECT",
+};
